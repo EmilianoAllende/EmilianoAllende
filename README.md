@@ -17,7 +17,7 @@
 
 <p align="justify">
 Desarrollador Web Full Stack con experiencia en tecnologías como React, Node.js y PostgreSQL. Trabjé en proyectos como: <br>
-  -Plataforma de ecommerce, donde implementé funcionalidades como un carrito de compras dinámico y un sistema para gestionar pedidos.
+  -Plataforma de ecommerce, donde implementé funcionalidades como un carrito de compras dinámico y un sistema para gestionar pedidos.<br>
   -App POS, donde implementé Navbar y Sidebar, gráficas para lectura y análisis de Métricas de negocio, procesamiento de pagos con Stripe y mejoras en responsividad. Por otro lado, contribuí significativamente al desarrollo de las habilidades de mi equipo en el uso de Git y GitHub, aumentando su confianza al momento de utilizar dichas tecnologías.
 
 Me caracterizo por una constante curiosidad, no solo dirigida hacia el aprendizaje y el crecimiento profesional, sino también a la comprensión de los procesos por detrás de las tecnologías que utilizo. Siempre estoy haciendo mi mejor esfuerzo en aras de mejorar mis habilidades, y estoy dispuesto a colaborar, algo que disfruto ya que siempre es más fácil aprender con alguien más. Además, me gusta explorar nuevas herramientas tecnológicas y perfeccionar mi nivel de inglés (C1).
