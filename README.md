@@ -16,16 +16,15 @@
 <br>
 
 <p align="justify">
-Desarrollador Web Full Stack con experiencia en tecnologías como React, Node.js y PostgreSQL. Trabjé en proyectos como: <br>
-  -Plataforma de ecommerce, donde implementé funcionalidades como un carrito de compras dinámico y un sistema para gestionar pedidos.<br>
-  -App POS, donde implementé Navbar y Sidebar, gráficas para lectura y análisis de Métricas de negocio, procesamiento de pagos con Stripe y mejoras en responsividad. Por otro lado, contribuí significativamente al desarrollo de las habilidades de mi equipo en el uso de Git y GitHub, aumentando su confianza al momento de utilizar dichas tecnologías.
+Desarrollador Web Full Stack especializado en automatización con IA. Vengo del mundo docente (Historia), lo que me permite escribir código claro, documentado y fácil de mantener. Actualmente lidero, en Grupo ICC, el desarrollo de NotasCan, una plataforma CRM inteligente de email marketing B2B, y el diseño de pipelines de publicación multicanal orquestados por agentes de IA (Claude, Gemini) para clientes de medios como fundacionemprende.org, Diario.es/Impulsa Innovación y MMI.<br><br>
+Trabajo con React/Next.js en frontend, Python/FastAPI en backend (liderando la migración gradual desde n8n bajo Clean Architecture), Supabase/PostgreSQL como base de datos, y n8n para automatizar procesos complejos con agentes de IA vía OpenRouter y LangChain.
 
-Me caracterizo por una constante curiosidad, no solo dirigida hacia el aprendizaje y el crecimiento profesional, sino también a la comprensión de los procesos por detrás de las tecnologías que utilizo. Siempre estoy haciendo mi mejor esfuerzo en aras de mejorar mis habilidades, y estoy dispuesto a colaborar, algo que disfruto ya que siempre es más fácil aprender con alguien más. Además, me gusta explorar nuevas herramientas tecnológicas y perfeccionar mi nivel de inglés (C1).
+Me caracteriza una curiosidad constante, no solo por aprender y crecer profesionalmente, sino por entender los procesos detrás de las tecnologías que uso. Disfruto colaborar, ya que siempre es más fácil aprender con alguien más, y sigo dando clases de Historia y Filosofía en el nivel secundario, algo que le da otra mirada a mi trabajo técnico.
 </p>
 
-- 🔭 Actualmente trabajo en mis proyectos paralelos y como Docente de Historia.
-- 🌱 Estoy simpre intentndo aprender algo nuevo. Actualmente lo relacionado a la Cyberseguridad ha captado mi atención.
-- 👯 Estoy dispuesto a colaborar en cualquier proyecto donde pueda vincularme con otras personas.
+- 🔭 Actualmente trabajo en NotasCan (Grupo ICC) y como Docente de Historia y Filosofía.
+- 🌱 Siempre estoy aprendiendo algo nuevo.
+- 👯 Estoy dispuesto a colaborar en cualquier proyecto, especialmente en entornos donde pueda vincularme con otras personas.
 - 📄 Leo regularmente en la web noticias sobre cualquier tema que despierte mi curiosidad.
 
 <br>
